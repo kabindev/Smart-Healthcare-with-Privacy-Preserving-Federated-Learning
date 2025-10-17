@@ -1,0 +1,2 @@
+# Smart-Healthcare-with-Privacy-Preserving-Federated-Learning
+Federated Learning, notably the Federated Averaging (FedAvg) algorithm, introduced a decentralized  approach to machine learning. In this model, a global model is distributed to a set of clients. Each  client computes an update based on its local data, and a central server then aggregates these  updates to produce a new, improved global model. 
